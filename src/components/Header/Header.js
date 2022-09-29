@@ -14,7 +14,7 @@ function Header() {
   return (
     <div className="header">
       <div className="header_left">
-        <img src={Logo} alt="devjobs logo" />
+        <img src={Logo} alt="devjobs-logo" />
 
         <div className="header_searchBar">
           <SearchIcon />
